@@ -140,10 +140,10 @@ public class InAppBrowser extends CordovaPlugin {
     private String closeButtonCaption = "";
     private String closeButtonColor = "";
     private boolean leftToRight = false;
-    private int toolbarColor = android.graphics.Color.LTGRAY;
-    private boolean hideNavigationButtons = false;
+    private int toolbarColor = android.graphics.Color.WHITE;
+    private boolean hideNavigationButtons = true;
     private String navigationButtonColor = "";
-    private boolean hideUrlBar = false;
+    private boolean hideUrlBar = true;
     private boolean showFooter = false;
     private String footerColor = "";
     private String beforeload = "";

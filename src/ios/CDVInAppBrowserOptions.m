@@ -42,7 +42,7 @@
         self.suppressesincrementalrendering = NO;
         self.hidden = NO;
         self.disallowoverscroll = NO;
-        self.hidenavigationbuttons = NO;
+        self.hidenavigationbuttons = YES;
         self.closebuttoncolor = nil;
         self.lefttoright = false;
         self.toolbarcolor = nil;
