@@ -45,7 +45,7 @@
         self.hidenavigationbuttons = YES;
         self.closebuttoncolor = nil;
         self.lefttoright = false;
-        self.toolbarcolor = "black";
+        self.toolbarcolor = nil;
         self.toolbartranslucent = YES;
         self.beforeload = @"";
     }
